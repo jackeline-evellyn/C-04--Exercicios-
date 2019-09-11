@@ -1,0 +1,10 @@
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\bin\Debug\netcoreapp2.1\exercicio02-Classe.deps.json
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\bin\Debug\netcoreapp2.1\exercicio02-Classe.runtimeconfig.json
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\bin\Debug\netcoreapp2.1\exercicio02-Classe.runtimeconfig.dev.json
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\bin\Debug\netcoreapp2.1\exercicio02-Classe.dll
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\bin\Debug\netcoreapp2.1\exercicio02-Classe.pdb
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\obj\Debug\netcoreapp2.1\exercicio02-Classe.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\obj\Debug\netcoreapp2.1\exercicio02-Classe.AssemblyInfoInputs.cache
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\obj\Debug\netcoreapp2.1\exercicio02-Classe.AssemblyInfo.cs
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\obj\Debug\netcoreapp2.1\exercicio02-Classe.dll
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio02-Classe\exercicio02-Classe\obj\Debug\netcoreapp2.1\exercicio02-Classe.pdb
