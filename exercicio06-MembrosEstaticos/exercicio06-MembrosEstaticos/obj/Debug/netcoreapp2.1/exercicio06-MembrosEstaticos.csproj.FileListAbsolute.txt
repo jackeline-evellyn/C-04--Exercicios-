@@ -1,0 +1,11 @@
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\bin\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.deps.json
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\bin\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.runtimeconfig.json
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\bin\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.runtimeconfig.dev.json
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\bin\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.dll
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\bin\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.pdb
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\obj\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.csprojAssemblyReference.cache
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\obj\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\obj\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.AssemblyInfoInputs.cache
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\obj\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.AssemblyInfo.cs
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\obj\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.dll
+C:\WorkSpaces\C#\C#04-exerciciosFixacao-OO\exercicio06-MembrosEstaticos\exercicio06-MembrosEstaticos\obj\Debug\netcoreapp2.1\exercicio06-MembrosEstaticos.pdb
